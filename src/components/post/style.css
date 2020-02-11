@@ -54,8 +54,7 @@
 }
 
 #commentaries{
-  background-color: #eee;
-  border-radius: 5px;
+  
   flex: 1;
   display: flex;
   margin-top: 20px;
@@ -85,5 +84,10 @@
   border-radius: 50%;
   object-fit: cover;
   object-position: top;
-  
+}
+
+#comentary-content{
+  background-color: #eee;
+  border-radius: 20px;
+  padding: 8px ;
 }
